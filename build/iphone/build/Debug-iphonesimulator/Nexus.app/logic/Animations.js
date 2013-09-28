@@ -1,0 +1,1 @@
+/Users/qianshen/Library/Containers/com.tencent.qq/Data/Downloads/Nexus/build/iphone/build/Debug-iphonesimulator/Nexus.app/logic/Users/qianshen/Documents/Titanium_Studio_Workspace/Nexus/Resources/logic/Animations.js

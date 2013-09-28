@@ -1,0 +1,1 @@
+var get_darken=Ti.UI.createAnimation();get_darken.opacity=0,get_darken.duration=600;var get_lighter=Ti.UI.createAnimation();get_lighter.opacity=100,get_lighter.duration=600;

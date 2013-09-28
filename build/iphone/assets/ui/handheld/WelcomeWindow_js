@@ -1,0 +1,1 @@
+function WelcomeWindow(){var e=require("ui/common/WelcomeView"),o=Ti.UI.createWindow({backgroundColor:"#ffffff",exitOnClose:!0}),n=new e;return o.add(n),o}module.exports=WelcomeWindow;

@@ -1,0 +1,1 @@
+function LoginWindow(){var e=require("ui/common/LoginView"),o=Ti.UI.createWindow({backgroundColor:"#ffffff",opacity:0}),n=new e;return o.add(n),o}module.exports=LoginWindow;

@@ -1,0 +1,1 @@
+function login(){Ti.Facebook.authorize()}function updateStatus(){loginStatus=Ti.Facebook.loggedIn}function checkStatus(){return loginStatus}function logout(){Ti.Facebook.logout()}Ti.Facebook.appid="3563214183734201",Ti.Facebook.permissions=["publish_stream"];var loginStatus=!1;Ti.Facebook.addEventListener("login",updateStatus),Ti.Facebook.addEventListener("logout",updateStatus);

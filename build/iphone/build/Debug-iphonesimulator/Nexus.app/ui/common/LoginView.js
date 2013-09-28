@@ -1,0 +1,1 @@
+/Users/qianshen/Library/Containers/com.tencent.qq/Data/Downloads/Nexus/build/iphone/build/Debug-iphonesimulator/Nexus.app/ui/common/Users/qianshen/Documents/Titanium_Studio_Workspace/Nexus/Resources/ui/common/LoginView.js
